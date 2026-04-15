@@ -31,7 +31,6 @@ It helps users organize and manage daily tasks efficiently.
 ```
 ├── index.html
 ├── style.css
-├── script.js
 ```
 
 ---
